@@ -1,4 +1,4 @@
-git clone https://https://github.com/patriciooli/DelilahPatricio
+git clone https://github.com/patriciooli/DelilahPatricio/tree/master/delilah-resto
 or download it from Github
 
 Installing dependencies:
